@@ -1,3 +1,7 @@
-## npm install
+## Installation
 
-## npm start
+npm install
+
+## Start Page
+
+npm start
