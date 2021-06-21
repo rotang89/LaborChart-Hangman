@@ -1,0 +1,14 @@
+.gameStart {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 80px;
+    text-align: left;
+}
+
+.hangman {
+    position: absolute;
+    font-size: 100px;
+    display: inline-block;
+    transform: translateY(-550px);
+    margin-left: 200px;
+}
